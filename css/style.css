@@ -1,0 +1,196 @@
+.*{
+      padding:0;
+      margin: 0;
+}
+body{ 
+    background-color: lightblue;
+    border-top: 15px solid rgba(234,204,200,0.5); 
+}
+
+.container{
+    border:1px solid black;
+    padding-top:1px;
+    padding-bottom:14px;
+    background-color: grey;
+    margin-top: 5px;
+}
+
+.container2{
+    
+        width:350px;
+
+        margin-left:  auto;
+        margin-right: auto;
+        margin-top: 5px;
+
+        padding: 10px;
+        font-size: 16px;
+
+        position: relative;
+        box-sizing: border-box;
+        display: inline-block;
+        height: cover;
+    
+}
+.c{
+    border:1px solid black;
+    border-radius: 10px;
+    height:220px;
+    width:350px;
+}
+.c div{
+    padding-left: 35px;
+    margin-left: 45px; 
+}
+.d{
+    height:230px;
+    width:300px;   
+        box-sizing: border-box;
+      
+    border:1px solid black;
+    border-radius: 10px;
+
+        padding: 10px;
+        font-size: 16px;
+        position:relative;
+          display: inline-block;
+          margin-left: 10px;
+          margin-right: 10px;
+             margin-top: 10px;
+}
+
+#login_form{
+    background-color:black;
+    border:1px solid black;
+     border-radius: 10px;
+}
+span{
+    width:25px;
+    height:45px;
+  
+    padding-bottom:7px;
+    padding-top:10px;
+    display: inline-block;
+    text-align: center;
+}
+.green{
+    background-color: darkgrey;
+    color:green;
+     font-size:18px; 
+}
+.black{
+    background-color: black;
+    color: white;
+    font-size:18px; 
+}
+.form-group{
+        
+    margin-top: 3px;
+    color:black; 
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 17px;
+     margin-right: auto ;
+    margin-left:auto;
+}
+
+.style{
+    background-color: lightseagreen;
+    margin-top: 5px;
+    padding-top:8px;
+    font-color:black;
+    font-size:17px;
+}
+
+#right{
+    float: right;
+}
+a{
+    color:black;
+    margin-top:5px;  
+}
+.a{
+    border:1px solid black;
+     border-radius: 10px;
+    background-color: lightsteelblue;
+    margin-top:5px; 
+    padding-top:1px; 
+    height: 70px;
+}
+.b{
+    border:1px solid black;
+     border-radius: 10px;
+    background-color: lightblue;
+    margin-top:5px; 
+    height: 120px;
+}
+/*==============================================================================*/
+h1{
+    color:white;
+    letter-spacing: 7px;
+    font-family: "Comic Sans MS", Times, serif;
+    font-weight: 29px;
+   
+}
+h2{
+    color:blue;
+    font-size: 25px;
+    font-family: "Comic Sans MS", Times, serif;
+}
+.btn-success{
+    position: center;
+    display: block;
+    margin-top: 10px;
+    margin-left:5px;
+}
+h3{
+    color:white;
+    font-size: 18px;
+    font-family: "Comic Sans MS", Times, serif;
+}  
+h4{
+    color:blue;
+    font-size: 18px;
+    padding-bottom:2px;
+    padding-top: 2px;
+    font-family: "Comic Sans MS", Times, serif;
+}
+h5{
+    color: yellow;
+     font-family: "Comic Sans MS", Times, serif;
+    font-weight: 29px;
+}
+input{
+    margin-top: 10px;
+    height:30px;
+    width:140px;
+}
+img{
+    size:35px;
+    background-size: cover;
+}
+label{
+    font-size:22px;
+    color:blue;
+    margin-top: 8px;
+}
+/*=============================================================================*/
+
+table,th,td{
+    border:1px solid black;
+     border-radius: 6px;
+    margin-top: 5px;
+    text-align: center;
+     padding-top: 10px;
+    padding-left:24px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    background-color: lightpink;
+}
+th{
+    color: white;
+    font-size:20px;
+}
+td{
+    font-size: 16px;
+}
