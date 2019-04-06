@@ -2,12 +2,12 @@
 <html>
     <head>
         <title>CPMS</title>
-         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
-         <link rel="stylesheet" type="text/css" href="../css/style.css">
-          <script src="../js/jquery-3.3.1.min.js"></script>
-         <script type="text/javascript" src="../js/bootstrap.js"></script>   
+         <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+         <link rel="stylesheet" type="text/css" href="css/style.css">
+          <script src="js/jquery-3.3.1.min.js"></script>
+         <script type="text/javascript" src="js/bootstrap.js"></script>   
     </head>
-<body background="../images/w5.jpg" style="background-size: cover;">
+<body background="images/w5.jpg" style="background-size: cover;">
    <center>
      <div class="container" style="background-image: url(images/a6.jpg);background-size: cover;background-position: -30px;">
         <div class="row-lg-6">
