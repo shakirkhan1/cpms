@@ -24,7 +24,7 @@
     </head>
     <body background="../images/a2.jpg" style="background-size: cover;background-position: -10px;" >
     <center>
-        <div class="container" style="background-image: url(../images/a4.jpg); ;background-size: cover;background-position: -90px;">
+        <div class="container" style="background-image: url(../images/a4.jpg);background-size: cover;background-position: -120px -200px;">
             <div class="row-lg-6">
                 <h1>Car Parking Management System</h1>
                 <a href="../homepage.php"><img src="../images/slot.jpg" alt="CPMS"></a>
@@ -40,7 +40,7 @@
             <div class="col-lg-2" id="right"><a href="../validate_logout.php"><b>LOGOUT</b></a></div>
         </div>
 
-        <div class="container a" style="background-image: url(../images/s1.jpg);background-size: cover;background-position: -100px;">
+        <div class="container a" style="background-image: url(../images/s1.jpg);">
                 <h2><b>PARKINGS</b><small><em> <?php echo $_SESSION['username']; ?></em></small></h2>
         </div>
         
