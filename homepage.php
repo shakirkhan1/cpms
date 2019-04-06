@@ -12,7 +12,7 @@
 ?> 
 <?php include 'header.php' ;?>
 
-        <div class="container style" style="background-image: url(images/back3.jpg);">
+        <div class="container style" style="background-image: url(images/back3.jpg);background-size: cover;background-position: -30px;">
              <div class="col-lg-2 "><a href="view parking/view_parking.php"><b> VIEW PARKING</b></a></div>
             <div class="col-lg-2"><a href="check slot/check_slot.php"><b>BOOK PARKING</b></a></div>
              <div class="col-lg-2"><a href="booking details/booking_details.php"><b>BOOKING DETAILS</b></a></div>
@@ -21,7 +21,7 @@
              <div class="col-lg-2" id="right"><a href="validate_logout.php"><b>LOGOUT</b></a></div> 
         </div>
 
-        <div class="container a" style="background-image: url(images/s1.jpg);">
+        <div class="container a" style="background-image: url(images/s1.jpg);background-size: cover;background-position: -30px;">
           <h2><b>Welcome To Car Parking Management System </b><em><?php echo $_SESSION['username']; ?></em></h2>
         </div>
         <div class="form-group">
