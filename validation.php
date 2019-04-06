@@ -27,7 +27,7 @@ if(isset($_POST['login']))
 			}
 		 else
 			{
-				header('location:login/login.php','!!Ooops Invalid credentials !!');
+				header('location:index.php','!!Ooops Invalid credentials !!');
 			}
 
 	}
