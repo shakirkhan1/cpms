@@ -15,7 +15,7 @@
   
 
 ?>
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
     <head>
         <title>CPMS</title>
