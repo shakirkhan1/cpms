@@ -9,7 +9,7 @@
          <script type="text/javascript" src="js/bootstrap.js"></script> 
          
     </head> 
-    <body background="images/a2.jpg">
+    <body background="images/a2.jpg" style="background-size: cover;background-position: -10px;">
     
         <center>
             <div class="container " id="top" style="background-image: url(images/a4.jpg);background-size: cover;background-position: -100px;">
