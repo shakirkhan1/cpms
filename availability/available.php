@@ -6,7 +6,7 @@
 
   if( !isset($_SESSION['username']))
   {
-    header('location:login/login.php');
+    header('location:index.php');
   }
  else{
      include '../helper.php';
