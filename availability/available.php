@@ -24,16 +24,16 @@
           <script src="../js/jquery-3.3.1.min.js"></script>
          <script type="text/javascript" src="../js/bootstrap.js"></script>    
     </head>
-    <body background="../images/a2.jpg">
+    <body background="../images/a2.jpg" style="background-size: cover;background-position: -10px;">
     <center>
-        <div class="container" style="background-image: url(../images/a4.jpg);">
+        <div class="container" style="background-image: url(../images/a4.jpg);background-size: cover;background-position: -120px -200px;">
             <div class="row-lg-6" >
                 <h1>Car Parking Management System</h1>
                 <a href="../homepage.php"><img src="../images/slot.jpg" alt="CPMS"></a>
             </div>
         </div>
 
-        <div class="container style" style="background-image: url(../images/back3.jpg);">
+        <div class="container style" style="background-image: url(../images/back3.jpg);background-size: cover;background-position: -100px;">
         <div class="col-lg-2 "><a href="../view parking/view_parking.php"><b> VIEW PARKING</b></a></div>
             <div class="col-lg-2"><a href="../check slot/check_slot.php"><b>BOOK PARKING</b></a></div>
             <div class="col-lg-2"><a href="../booking details/booking_details.php"><b>BOOKING DETAILS</b></a></div>
